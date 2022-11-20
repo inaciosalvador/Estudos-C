@@ -1,2 +1,2 @@
 # Estudos-C
-Aqui colocarei todo estudo relacionado a Linguagem C
+Criação de bibioteca para programar em "Portugues"
