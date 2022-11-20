@@ -1,2 +1,2 @@
 # Estudos-C
-Aqui todo estudo relacionado a Linguagem C
+Aqui colocarei todo estudo relacionado a Linguagem C
